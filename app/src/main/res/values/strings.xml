@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PeopleApp</string>
+    <string name="firstName">First name:</string>
+    <string name="lastName">Last Name:</string>
+    <string name="clear">Clear</string>
+    <string name="ok">Ok</string>
+</resources>
